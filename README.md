@@ -4,16 +4,16 @@ In this Project, we will demonstrate how we can build a Natural Language Process
 
 # Installation
 
-pip install spacy-streamlit
-pip install -U pip setuptools wheel
-pip install -U spacy
-python -m spacy download en_core_web_trf
-pip install streamlit
-pip install transformers
+* pip install spacy-streamlit
+* pip install -U pip setuptools wheel
+* pip install -U spacy
+* python -m spacy download en_core_web_trf
+* pip install streamlit
+* pip install transformers
 
 # NLP App Functionalities
-Advanced Summarizer
-Named Entity Recognizer
-Sentiment Analysis
-Text Completion
+* Advanced Summarizer
+* Named Entity Recognizer
+* Sentiment Analysis
+* Text Completion
 
